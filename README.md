@@ -1,7 +1,7 @@
 
 const Emanuel = {
   nickname: 👋 Hi, I’m @vloggermaniac
-  learned: 🌱[HTML, CSS, SASS, Bootstrap, Flexbox, Grid, Javascript, React, Redux,],
+  learned: 🌱[HTML, CSS, SASS, Bootstrap, Flexbox, Grid, Javascript, React, Redux],
   learning: [Typescript,NodeJs,Express,],
   soon: [Data Visualization with D3, JSON APIs and AJAX ],
   preferences: {
