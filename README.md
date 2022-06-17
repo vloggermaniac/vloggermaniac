@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/vloggermaniac?tab=repositories](https://github.com/vloggermaniac?tab=repositories)
 
-- 💬 Ask me about **HTML y CSS, JavaScript, Typescript y React, y en Backend: Data Visualization with D3, JSON APIs and AJAX, NodeJs, Express, PHP, MySQL, mariaDB mongoDB, Laravel **
+- 💬 Ask me about **HTML y CSS, JavaScript, Typescript y React, y en Backend: Data Visualization with D3, JSON APIs and AJAX, NodeJs, Express, PHP, MySQL, mariaDB mongoDB, Laravel**
 
 - 📫 How to reach me **emanuelzwenger@hotmail.com**
 
