@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Emanuel Matias Zwenger</h1>
 <h3 align="center">FullStack developer</h3>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **JAVA**
 
 - 👨‍💻 All of my projects are available at [https://github.com/vloggermaniac?tab=repositories](https://github.com/vloggermaniac?tab=repositories)
 
-- 💬 Ask me about **HTML y CSS, JavaScript, Typescript y React, y en Backend: Data Visualization with D3, JSON APIs and AJAX, NodeJs, Express, PHP, MySQL, mariaDB mongoDB, Laravel**
+- 💬 Ask me about **HTML y CSS, JavaScript, Typescript y React, y en Backend: Data Visualization with D3, JSON APIs and AJAX, NodeJs, Express, PHP, MySQL, mariaDB mongoDB, Laravel, Python**
 
 - 📫 How to reach me **emanuelzwenger@hotmail.com**
 
