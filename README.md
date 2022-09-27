@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Emanuel Matias Zwenger</h1>
 <h3 align="center">FullStack developer</h3>
 
-- 🌱 I’m currently learning **JAVA**
+- 🌱 I’m currently learning ****
 
 - 👨‍💻 All of my projects are available at [https://github.com/vloggermaniac?tab=repositories](https://github.com/vloggermaniac?tab=repositories)
 
-- 💬 Ask me about **HTML y CSS, JavaScript, Typescript y React, y en Backend: Data Visualization with D3, JSON APIs and AJAX, NodeJs, Express, PHP, MySQL, mariaDB mongoDB, Laravel, Python**
+- 💬 Ask me about **HTML y CSS, JavaScript, Typescript y React, y en Backend: Data Visualization with D3, JSON APIs and AJAX, NodeJs, Express, PHP, MySQL, mariaDB mongoDB, Laravel, Python, JAVA**
 
 - 📫 How to reach me **emanuelzwenger@hotmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1sRwM_CSEvOzUgo1kaSWpyaozqEFB2VXc/view](https://drive.google.com/file/d/1sRwM_CSEvOzUgo1kaSWpyaozqEFB2VXc/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1b555FG2agnR5X1Ayekw2Qf3tqLpul03e/view?usp=sharing](https://drive.google.com/file/d/1b555FG2agnR5X1Ayekw2Qf3tqLpul03e/view?usp=sharing)
 
 - ⚡ Fun fact **{ animals: "Cat 😻 and Dogs ", food: "Pizza 🍕 and Icecream 🍦", sports: running, football }**
 
