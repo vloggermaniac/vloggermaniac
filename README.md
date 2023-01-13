@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emanuel Matias Zwenger</h1>
 <h3 align="center">FullStack developer</h3>
 
-- 🌱 I’m currently learning ****
+- 🌱 I’m currently learning **Angular**
 
 - 👨‍💻 All of my projects are available at [https://github.com/vloggermaniac?tab=repositories](https://github.com/vloggermaniac?tab=repositories)
 
